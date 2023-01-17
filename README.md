@@ -14,6 +14,10 @@
     - phpmyadmin
 
 5. Code Editor
+    - VS Code
+    - Sublime text
+    - Atom
+    - nodepad++
 
 ### RUNNING LOCALLY
 1. clone the project
