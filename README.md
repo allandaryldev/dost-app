@@ -22,6 +22,7 @@
 ### RUNNING LOCALLY
 1. clone the project
 ```bash
+    git clone https://github.com/allandaryldev/dost-app.git
 ```
 2. cd to the project
 ``` bash
